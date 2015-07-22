@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Receipts++/Tag.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Receipts++/Tag.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Receipts++/Receipt.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Receipts++/Receipt.m">
+   </FileRef>
+   <FileRef
+      location = "self:Receipts++.xcodeproj">
+   </FileRef>
+</Workspace>
